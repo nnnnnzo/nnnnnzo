@@ -5,4 +5,3 @@ def nnnzo():
   epic! = True
   return epic!
 ``` 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnnzo&hide=php,css&layout=compact)
