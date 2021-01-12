@@ -1,7 +1,1 @@
-### Hello there ! general kenobi 👋
-```python
-def nnnzo():
-  print("French student in digital sciences and technology")
-  epic! = True
-  return epic!
-``` 
+![](https://raw.githubusercontent.com/nnnnnzo/Ressources/master/a7b1b3f009b7c36bebae08fdda5e5086.gif)
